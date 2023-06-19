@@ -1,0 +1,32 @@
+
+
+
+Nome file:     29_beta_P7.txt
+
+
+Numero di neuroni di input:     600
+
+
+Numero di campioni prelevati:     600
+
+
+Numero di neuroni dello strato competitivo:     10
+
+
+Tasso di apprendimento:     0.100000
+
+
+Delta1:     0.200000
+
+
+Delta2:     0.020000
+
+
+
+
+1 0 1 8 0 0 8 1 0 1 
+
+
+Numero di elementi zero:     4
+
+Numero di elementi non-zero: 6
